@@ -5,7 +5,6 @@
 ---
 
 ### 🌟 About Me
-- 💼 Associate Software Engineer - Trainee @ TEKsystems Global Services  
 - ⚙️ Backend-focused developer building real-world applications during training  
 - 🚀 Currently working on scalable systems, APIs, and full-stack integrations  
 - 💬 Open to collaboration, learning, and impactful opportunities  
