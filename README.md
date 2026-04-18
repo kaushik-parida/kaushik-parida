@@ -5,9 +5,9 @@
 ---
 
 ### 🌟 About Me
-- ⚙️ Backend-focused developer building real-world applications during training  
-- 🚀 Currently working on scalable systems, APIs, and full-stack integrations  
-- 💬 Open to collaboration, learning, and impactful opportunities  
+- ⚙️ Actively learning and applying concepts to build real-world systems across backend, APIs, and full-stack development  
+- 🚀 Working on scalable systems, integrations, and practical implementation of concepts  
+- 📈 Focused on improving through consistent development and hands-on practice 
 
 ---
 
@@ -28,9 +28,9 @@
 ---
 
 ### 🚀 Current Work
-- 🛒 Building an Order Management System (Spring Boot + React + MySQL)  
-- 📝 Developed a Notes Application (Node.js + Express)  
-- 🔧 Exploring backend architecture, API design, and system scalability  
+- 🛒 Order Management System — implementing secured backend workflows, APIs, and data handling  
+- 📝 Notes Application — backend services using Node.js & Express  
+- 🔧 Exploring system design, API development, and scalable architecture  
 
 ---
 
